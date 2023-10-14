@@ -1,0 +1,21 @@
+"","/home/rstudio/smiqumulo/01 SMI TAP project/SMI-0153_MichalinaJaniszewska_UF-Scripps/5.2 flat files/OS12_2","/home/rstudio/smiqumulo/01 SMI TAP project/SMI-0153_MichalinaJaniszewska_UF-Scripps/5.2 flat files/OS6_4","full_dataset"
+"cell_number",18911,33677,52588
+"perc_cells_moreThan_20_cts",81.62,66.49,71.93
+"total_tx",3162206,7163058,10325264
+"cellZero_tx",1298234,3426661,4724895
+"perc_assign_tx",58.95,52.16,54.24
+"number_of_FOV",14,22,36
+"cubic_um_measured",45273489.408,71144054.784,116417544.192
+"transcript_per_cubic_um",0.0698,0.101,0.0887
+"cellular_cubic_um_measured",13462459.038,21976861.68,35439320.718
+"cellular_transcript_per_cubic_um",0.138,0.17,0.158
+"genes_detected",470,478,479
+"perc_genes_detected",47.47,48.28,48.38
+"mean_tx_per_cell",99,111,106
+"q1_tx_per_cell.10%",11,6,7
+"q9_tx_per_cell.90%",222,300,268
+"mean_tx_per_cell_per_target",0.0996,0.112,0.108
+"mean_negs_per_cell",0.408,0.529,0.485
+"mean_negs_per_cell_per_target",0.0215,0.0278,0.0255
+"mean_false_per_cell",0,0,0
+"mean_false_per_cell_per_target",NA,NA,NA
